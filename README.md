@@ -9,7 +9,7 @@ A medida que avanzo en mi camino de aprendizaje, estaré actualizando este repos
 
 Si tienes alguna sugerencia, pregunta o simplemente deseas saludar, no dudes en contactarme. Estoy abierto/a a colaboraciones, consejos y cualquier forma de apoyo en esta increíble travesía de aprendizaje.
 
-¡Gracias por visitar mi repositorio! Espero que encuentres inspiración y aprendas algo nuevo aquí. ¡Sigamos creciendo y aprendiendo juntos!
+¡Gracias por visitar mi repositorio! Espero que encuentres inspiración y aprendas algo nuevo aquí.
 
 ¡Saludos y feliz codificación!
 
