@@ -2,7 +2,7 @@
 
 ## Estudiante de Desarrollo de Aplicaciones Multiplataforma
 
-![Profile Image]([https://avatars.githubusercontent.com/u/117987662?v=4](https://avatars.githubusercontent.com/u/117987662?v=4))
+![Profile Image](https://avatars.githubusercontent.com/u/117987662?v=4)
 
 ### Tecnologías que manejo:
 
