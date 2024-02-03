@@ -29,7 +29,7 @@
 
 ## Encuéntrame en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joan_Marqueno?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joan_Marqueno-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010
 )](https://www.linkedin.com/in/joanmarqueno/)
 
 ## Contacto:
