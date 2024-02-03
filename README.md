@@ -29,7 +29,7 @@
 
 ## Encuéntrame en:
 
-[![LinkedIn](https://www.linkedin.com/in/joanmarqueno)](https://www.linkedin.com/in/joanmarqueno/)
+[![LinkedIn](https://www.linkedin.com/in/joanmarqueno/)](https://www.linkedin.com/in/joanmarqueno/)
 
 ## Contacto:
 
