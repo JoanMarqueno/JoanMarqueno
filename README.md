@@ -1,16 +1,36 @@
+# Hola, soy Joan Marqueño Sureda 👋
 
-### ¡Hola! 👋
+## Estudiante de Desarrollo de Aplicaciones Multiplataforma
 
-Soy Joan Marqueño y actualmente estoy inmerso/a en un apasionante viaje de aprendizaje y desarrollo. Este repositorio en GitHub refleja mi dedicación y esfuerzo por aprender y crecer en el mundo de la programación.
+![Profile Image]([https://avatars.githubusercontent.com/u/117987662?v=4](https://avatars.githubusercontent.com/u/117987662?v=4))
 
-Aquí encontrarás una variedad de proyectos en los que he estado trabajando mientras sigo expandiendo mis conocimientos. Cada proyecto representa un nuevo desafío y una oportunidad para aprender algo nuevo.
+### Tecnologías que manejo:
 
-A medida que avanzo en mi camino de aprendizaje, estaré actualizando este repositorio con nuevos proyectos, mejoras y descubrimientos emocionantes. Estoy emocionado/a de compartir mi progreso contigo y de conectar con otros entusiastas de la programación.
+- React
+- Tailwind
+- Java
+- Python
+- IA
+- Android Studio
 
-Si tienes alguna sugerencia, pregunta o simplemente deseas saludar, no dudes en contactarme. Estoy abierto/a a colaboraciones, consejos y cualquier forma de apoyo en esta increíble travesía de aprendizaje.
+### Proyectos destacados:
 
-¡Gracias por visitar mi repositorio! Espero que encuentres inspiración y aprendas algo nuevo aquí.
+- Proyecto 1
+- Proyecto 2
+- ...
 
-¡Saludos y feliz codificación!
+## Encuéntrame en:
 
-Joan Marqueño
+[![LinkedIn](inserta_la_url_de_tu_perfil_de_LinkedIn)](inserta_la_url_de_tu_perfil_de_LinkedIn)
+[![Twitter](inserta_la_url_de_tu_perfil_de_Twitter)](inserta_la_url_de_tu_perfil_de_Twitter)
+
+## Mis contribuciones:
+
+- Contribución 1
+- Contribución 2
+- ...
+
+## Contacto:
+
+- Correo electrónico: [tu_correo@gmail.com](mailto:tu_correo@gmail.com)
+- [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](inserta_la_url_de_tu_perfil_de_Buy_Me_A_Coffee)
